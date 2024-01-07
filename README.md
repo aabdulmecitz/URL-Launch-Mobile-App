@@ -21,6 +21,4 @@ Linux
 MacOs
 Web
 
-From The App:
-
-![untitled](https://github.com/aabdulmecitz/URL-Launch-Mobile-App/assets/53156663/a3aca0c9-4597-4420-ad9c-617689b1a6eb)
+![Screenshot_1704646042 (1)](https://github.com/aabdulmecitz/URL-Launch-Mobile-App/assets/53156663/24c0905e-69e4-4475-b344-9dc94f64e021)
